@@ -1,4 +1,4 @@
-### TryHackMe — Progresso e Notas
+# TryHackMe — Progresso e Notas
 
 Repositório onde documento o meu percurso de aprendizagem em cibersegurança através da plataforma [TryHackMe](https://tryhackme.com), com foco em enumeração, exploração de vulnerabilidades, escalada de privilégios e fundamentos de redes.
 
@@ -19,7 +19,7 @@ Repositório onde documento o meu percurso de aprendizagem em cibersegurança at
 
 ---
 
-## 🗂️ Estrutura do repositório
+##  Estrutura do repositório
 
 ```
 tryhackme-progress/
@@ -35,19 +35,19 @@ Cada room documentada segue o [template](notes/template.md): objetivo, metodolog
 
 ---
 
-## ✅ Certs
+##  Certs
 
 Currently taking Cyber Security 101
  
 ---
 
-## 🧰 Ferramentas mais usadas
+##  Ferramentas mais usadas
 
 `nmap` · `burp suite` · `gobuster` · `hydra` · `linpeas` · `wireshark` · `metasploit`
 
 ---
 
-## 📚 Cheatsheets
+##  Cheatsheets
 
 - [Nmap — comandos essenciais](cheatsheets/nmap.md)
 - [Linux Privilege Escalation — checklist](cheatsheets/privesc-linux.md)
@@ -56,7 +56,7 @@ Currently taking Cyber Security 101
 
 ---
 
-## 🎯 Objetivo do repositório
+##  Objetivo do repositório
 
 Manter um registo estruturado da aprendizagem prática, servindo simultaneamente como:
 1. Ferramenta de revisão pessoal de conceitos
