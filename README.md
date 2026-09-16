@@ -1,4 +1,4 @@
-TryHackMe — Progresso e Notas
+### TryHackMe — Progresso e Notas
 
 Repositório onde documento o meu percurso de aprendizagem em cibersegurança através da plataforma [TryHackMe](https://tryhackme.com), com foco em enumeração, exploração de vulnerabilidades, escalada de privilégios e fundamentos de redes.
 
